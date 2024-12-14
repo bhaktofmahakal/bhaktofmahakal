@@ -14,7 +14,8 @@
 ## 📫 Contact Me
 - GitHub: [utsavmishra](https://github.com/utsavmishra)
 - Email: moviesf14@email.com
-I'm current working on a very secret project<br>I'm current learning PHP with Laravel and Android Development with Kotlin, Java<br>busy with new technologies ,trying to learn them and work with them.
+  <br>
+I'm current working on a very secret project<br>I'm current learning PHP with Laravel and Android Development with Kotlin, Java<br>busy with new technologies ,trying to learn them and work with them
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/9721429898) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhakt_of_mahakal9721) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utsav-mishra-012a2a2aa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@moviesf14@gmail.com) 
