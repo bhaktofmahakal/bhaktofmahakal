@@ -13,8 +13,9 @@
 - Basic React, UI/UX Design
 
 ## 📫 Contact Me
-- GitHub: [utsavmishra](https://github.com/utsavmishra)
-- Email: moviesf14@email.com
+- GitHub: [Utsav Mishra](https://github.com/bhaktofmahakal)
+- Email: utsavmishraa@gmail.com
+- Secondary Email: moviesf14@email.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhakt_of_mahakal9721) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utsav-mishra-012a2a2aa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@moviesf14@gmail.com) 
@@ -38,8 +39,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=bhaktofmahakal&icon=5&color=8)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/raj) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
