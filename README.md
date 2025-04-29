@@ -14,7 +14,7 @@
 
 ## 📫 Contact Me
 - GitHub: [Utsav Mishra](https://github.com/bhaktofmahakal)
-- Email: utsavmishraa@gmail.com
+- Email: utsavmishraa005@gmail.com
 - Secondary Email: moviesf14@email.com
 
 ## 🌐 Socials:
