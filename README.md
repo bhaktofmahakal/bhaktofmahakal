@@ -1,19 +1,73 @@
 
 # Hi, I'm Utsav Mishra! 👋
 
-# 💫 About Me:
-I’m Utsav Mishra, a 2nd-year BCA student (graduating in Nov 2026) focused on becoming a top-tier full-stack web developer with a strong foundation in backend systems, API security, and DevOps fundamentals.<br>
+🙋‍♂️ **About Me**
 
-<br>I’ve built scalable, real-world web applications using PHP (N-tier architecture), MySQL, React.js, and Tailwind CSS — including job portals, dynamic college websites, booking systems, and e-commerce platforms with secure user authentication, review systems, and session-based control.<br><br>I’m actively improving my backend engineering skills by learning how to build secure, RESTful APIs with proper validation, authentication (session + token-based), and role-based access.<br>
-I follow DevOps basics like Docker containerization, CI/CD pipelines, and version control with Git and GitHub. <br>I'm also exploring cloud fundamentals using AWS and Kubernetes orchestration.<br><br>My routine includes solving DSA problems based on patterns like Sliding Window, Linked List Reversal, and Monotonic Stack, along with deploying and maintaining clean, modern full-stack apps using GitHub + Vercel.
-<br><br>Skills & Tools<br>Languages: PHP, JavaScript, Java (Basics)<br><br>Frontend: React.js, Tailwind CSS, Bootstrap<br><br>Backend: PHP (N-tier), MySQL, REST APIs, Session/Auth<br><br>Security: Input validation, SQL injection protection, Auth-based access<br><br>DevOps: Docker (basic), AWS (basic), Kubernetes (intro level), CI/CD, Git<br><br>Tools: GitHub, Postman, XAMPP, Vercel, Figma<br><br>AI Tools: ChatGPT, AI Tools (for visual content/UI)<br><br>Projects & Highlights<br>Modern College Website (React + PHP + Tailwind + MySQL)<br><br>Job Board Platform with Admin Panel, Auth, Session-Based Jobs<br><br>Booking System with Conditional Review/Ratings Post-Completion<br><br>E-commerce Site with Cart Quantity Control, Order History<br><br>Clean backend architecture using layered PHP modules (N-tier)<br><br>Currently Working On<br>Practicing LeetCode-style DSA using popular coding patterns<br><br>Building and deploying full-stack apps with secure, scalable APIs<br><br>Exploring Docker + AWS + Kubernetes for backend app deployment<br><br>Strengthening GitHub, resume, and LinkedIn for 2025 internship season<br><br><br>
-Connect With Me
-<br> GitHub: [Utsav Mishra](https://github.com/bhaktofmahakal)
-<br>- LinkedIn: [Utsav Mishra](https://www.linkedin.com/in/utsav-mishra1)
-<br>- Portfolio: [Utsav Mishra](https://portfolio-nine-ecru-23.vercel.app/)
-<br>- Email: utsavmishraa005@gmail.com<br>- Secondary Email: moviesf14@email.com<br>
+# 👋 Hi, I'm Utsav Mishra
 
-💡 I believe in learning by building — and I’m always open to exciting collaborations!
+🎓 I’m a **2nd-year BCA student** (graduating in **Nov 2026**) focused on becoming a **top-tier full-stack web developer** with a strong foundation in **backend systems**, **API security**, and **DevOps fundamentals**.
+
+🚀 I’ve built **real-world, scalable web applications** using `PHP (N-tier architecture)`, `MySQL`, `React.js`, and `Tailwind CSS` — including:
+
+- 🎯 Job portals  
+- 🏫 Dynamic college websites  
+- 📆 Booking systems  
+- 🛒 E-commerce platforms with auth, cart, session control, and review logic  
+
+🔐 I'm actively improving my **backend engineering** by mastering:
+
+- Secure, RESTful APIs with validation & token/session auth  
+- Role-based access and input security  
+- DevOps workflows with Docker, GitHub Actions, and CI/CD  
+- Cloud fundamentals (AWS, Kubernetes basics)  
+
+🧠 I regularly practice **DSA** using patterns like Sliding Window, Linked List Reversal, Monotonic Stack — and deploy modern full-stack apps via **GitHub + Vercel**.
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages:** PHP, JavaScript, Java (Basics)  
+- **Frontend:** React.js, Tailwind CSS, Bootstrap  
+- **Backend:** PHP (N-tier), MySQL, REST APIs, Auth & Session  
+- **Security:** SQL injection protection, Input validation, Auth-based access  
+- **DevOps:** Docker (basic), AWS (basic), Kubernetes (intro), CI/CD, Git  
+- **Tools:** GitHub, Postman, XAMPP, Vercel, Figma  
+- **AI Tools:** ChatGPT, Leonardo AI (for UI/visual content)
+
+---
+
+## 🧩 Projects & Highlights
+
+- 💻 Modern College Website – React + Tailwind + PHP + MySQL  
+- 🧾 Job Board Platform – Admin Panel + Secure Auth + Job Management  
+- 📅 Booking System – Conditional review & ratings based on booking status  
+- 🛍️ E-commerce Website – Add to cart, quantity control, order history  
+- 🧱 Clean Backend – Built with scalable N-tier architecture in PHP
+
+---
+
+## 🔭 Currently Working On
+
+- Solving DSA on LeetCode using real-world problem-solving patterns  
+- Building REST APIs with role-based auth & error-handling  
+- Exploring Docker + AWS + Kubernetes for backend app deployment  
+- Polishing GitHub, Resume, and LinkedIn for **2025 internship season**
+
+---
+
+## 📬 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/utsav-mishra-012a2a2aa)  
+- 🔗 [GitHub](https://github.com/bhaktofmahakal)  
+- 🌐 Portfolio (in dev): Coming soon  
+- 📧 Email: utsavmishraa005@gmail.com  
+- 📩 Secondary: moviesf14@email.com  
+
+---
+
+💡 *“I believe in learning by building — and I’m always open to exciting collaborations!”*
+
 
 
 ## 🌐 Socials:
