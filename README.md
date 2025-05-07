@@ -3,8 +3,6 @@
 
 # 🙋‍♂️ **About Me**
 
-## 👋 Hi, I'm Utsav Mishra
-
 🎓 I’m a **2nd-year BCA student** (graduating in **Nov 2026**) focused on becoming a **top-tier full-stack web developer** with a strong foundation in **backend systems**, **API security**, and **DevOps fundamentals**.
 
 🚀 I’ve built **real-world, scalable web applications** using `PHP (N-tier architecture)`, `MySQL`, `React.js`, and `Tailwind CSS` — including:
