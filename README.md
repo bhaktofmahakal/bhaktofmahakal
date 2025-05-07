@@ -1,9 +1,9 @@
 
 # Hi, I'm Utsav Mishra! 👋
 
-🙋‍♂️ **About Me**
+#🙋‍♂️ **About Me**
 
-# 👋 Hi, I'm Utsav Mishra
+## 👋 Hi, I'm Utsav Mishra
 
 🎓 I’m a **2nd-year BCA student** (graduating in **Nov 2026**) focused on becoming a **top-tier full-stack web developer** with a strong foundation in **backend systems**, **API security**, and **DevOps fundamentals**.
 
