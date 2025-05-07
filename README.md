@@ -1,16 +1,19 @@
-# 💫 About Me:
+
 # Hi, I'm Utsav Mishra! 👋
 
 # 💫 About Me:
-I’m Utsav Mishra, a 2nd-year BCA student (graduating in 2026) focused on becoming a top-tier full-stack web developer with a strong foundation in backend systems, API security, and DevOps fundamentals.<br><br>I’ve built scalable, real-world web applications using PHP (N-tier architecture), MySQL, React.js, and Tailwind CSS — including job portals, dynamic college websites, booking systems, and e-commerce platforms with secure user authentication, review systems, and session-based control.<br><br>I’m actively improving my backend engineering skills by learning how to build secure, RESTful APIs with proper validation, authentication (session + token-based), and role-based access. I follow DevOps basics like Docker containerization, CI/CD pipelines, and version control with Git and GitHub. I'm also exploring cloud fundamentals using AWS and Kubernetes orchestration.<br><br>My routine includes solving DSA problems based on patterns like Sliding Window, Linked List Reversal, and Monotonic Stack, along with deploying and maintaining clean, modern full-stack apps using GitHub + Vercel.<br><br>Skills & Tools<br>Languages: PHP, JavaScript, Java (Basics)<br><br>Frontend: React.js, Tailwind CSS, Bootstrap<br><br>Backend: PHP (N-tier), MySQL, REST APIs, Session/Auth<br><br>Security: Input validation, SQL injection protection, Auth-based access<br><br>DevOps: Docker (basic), AWS (basic), Kubernetes (intro level), CI/CD, Git<br><br>Tools: GitHub, Postman, XAMPP, Vercel, Figma<br><br>AI Tools: ChatGPT, Leonardo AI (for visual content/UI)<br><br>Projects & Highlights<br>Modern College Website (React + PHP + Tailwind + MySQL)<br><br>Job Board Platform with Admin Panel, Auth, Session-Based Jobs<br><br>Booking System with Conditional Review/Ratings Post-Completion<br><br>E-commerce Site with Cart Quantity Control, Order History<br><br>Clean backend architecture using layered PHP modules (N-tier)<br><br>Currently Working On<br>Practicing LeetCode-style DSA using popular coding patterns<br><br>Building and deploying full-stack apps with secure, scalable APIs<br><br>Exploring Docker + AWS + Kubernetes for backend app deployment<br><br>Strengthening GitHub, resume, and LinkedIn for 2025 internship season<br><br><br>Connect With Me<br> GitHub: [Utsav Mishra](https://github.com/bhaktofmahakal)<br>- LinkedIn: [Utsav Mishra](https://www.linkedin.com/in/utsav-mishra1)<br>- Portfolio: [Utsav Mishra](https://portfolio-nine-ecru-23.vercel.app/)<br>- Email: utsavmishraa005@gmail.com<br>- Secondary Email: moviesf14@email.com<br>💡 I believe in learning by building — and I’m always open to exciting collaborations!
+I’m Utsav Mishra, a 2nd-year BCA student (graduating in Nov 2026) focused on becoming a top-tier full-stack web developer with a strong foundation in backend systems, API security, and DevOps fundamentals.<br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bhaktofmahakal&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bhaktofmahakal&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktofmahakal&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>I’ve built scalable, real-world web applications using PHP (N-tier architecture), MySQL, React.js, and Tailwind CSS — including job portals, dynamic college websites, booking systems, and e-commerce platforms with secure user authentication, review systems, and session-based control.<br><br>I’m actively improving my backend engineering skills by learning how to build secure, RESTful APIs with proper validation, authentication (session + token-based), and role-based access.<br>
+I follow DevOps basics like Docker containerization, CI/CD pipelines, and version control with Git and GitHub. <br>I'm also exploring cloud fundamentals using AWS and Kubernetes orchestration.<br><br>My routine includes solving DSA problems based on patterns like Sliding Window, Linked List Reversal, and Monotonic Stack, along with deploying and maintaining clean, modern full-stack apps using GitHub + Vercel.
+<br><br>Skills & Tools<br>Languages: PHP, JavaScript, Java (Basics)<br><br>Frontend: React.js, Tailwind CSS, Bootstrap<br><br>Backend: PHP (N-tier), MySQL, REST APIs, Session/Auth<br><br>Security: Input validation, SQL injection protection, Auth-based access<br><br>DevOps: Docker (basic), AWS (basic), Kubernetes (intro level), CI/CD, Git<br><br>Tools: GitHub, Postman, XAMPP, Vercel, Figma<br><br>AI Tools: ChatGPT, AI Tools (for visual content/UI)<br><br>Projects & Highlights<br>Modern College Website (React + PHP + Tailwind + MySQL)<br><br>Job Board Platform with Admin Panel, Auth, Session-Based Jobs<br><br>Booking System with Conditional Review/Ratings Post-Completion<br><br>E-commerce Site with Cart Quantity Control, Order History<br><br>Clean backend architecture using layered PHP modules (N-tier)<br><br>Currently Working On<br>Practicing LeetCode-style DSA using popular coding patterns<br><br>Building and deploying full-stack apps with secure, scalable APIs<br><br>Exploring Docker + AWS + Kubernetes for backend app deployment<br><br>Strengthening GitHub, resume, and LinkedIn for 2025 internship season<br><br><br>
+Connect With Me
+<br> GitHub: [Utsav Mishra](https://github.com/bhaktofmahakal)
+<br>- LinkedIn: [Utsav Mishra](https://www.linkedin.com/in/utsav-mishra1)
+<br>- Portfolio: [Utsav Mishra](https://portfolio-nine-ecru-23.vercel.app/)
+<br>- Email: utsavmishraa005@gmail.com<br>- Secondary Email: moviesf14@email.com<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=bhaktofmahakal&icon=0&color=0)](https://visitcount.itsvg.in)
+💡 I believe in learning by building — and I’m always open to exciting collaborations!
 
 
 ## 🌐 Socials:
@@ -22,6 +25,7 @@ I’m Utsav Mishra, a 2nd-year BCA student (graduating in 2026) focused on becom
 ![](https://github-readme-stats.vercel.app/api?username=bhaktofmahakal&theme=vue&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bhaktofmahakal&theme=vue&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktofmahakal&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=bhaktofmahakal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bhaktofmahakal&theme=vue&no-frame=false&no-bg=true&margin-w=4)
