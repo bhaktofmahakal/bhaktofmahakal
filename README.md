@@ -5,7 +5,7 @@
 - 🎓 Full-Stack Developer & 2nd-year BCA student
 - 🌱 Continuously Learning and Improving My development and UI/UX Skills, Exploring New Technologies
 - 🎶 Singing enthusiast and animal lover
-- I'm current working on a very secret project<br>I'm current learning PHP with Laravel and Android Development with Kotlin, Java<br>busy with new technologies ,trying to learn them and work with them
+- I'm current working on projects<br>I'm current learning PHP with Laravel and Android Development with Kotlin, Java<br>busy with new technologies ,trying to learn them and work with them
 
 ## 🛠️ Skills
 - Web Development (HTML, CSS, JavaScript, PHP, React, Next.js)
