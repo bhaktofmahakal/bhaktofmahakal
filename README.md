@@ -1,7 +1,7 @@
 
 # Hi, I'm Utsav Mishra! 👋
 
-#🙋‍♂️ **About Me**
+# 🙋‍♂️ **About Me**
 
 ## 👋 Hi, I'm Utsav Mishra
 
