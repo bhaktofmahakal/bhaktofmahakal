@@ -56,11 +56,11 @@
 
 ## 📬 Connect With Me
 
+- 🌐 [Portfolio](https://portfolio-nine-ecru-23.vercel.app/)
 - 💼 [LinkedIn](https://linkedin.com/in/utsav-mishra-012a2a2aa)  
 - 🔗 [GitHub](https://github.com/bhaktofmahakal)  
-- 🌐 [Portfolio](https://portfolio-nine-ecru-23.vercel.app/)
 - 📧 [Email](utsavmishraa005@gmail.com)  
-- 📩 Secondary: moviesf14@email.com  
+- 📩 [Secondary Email](moviesf14@email.com)  
 
 ---
 
