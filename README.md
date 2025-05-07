@@ -33,7 +33,7 @@
 - **Security:** SQL injection protection, Input validation, Auth-based access  
 - **DevOps:** Docker (basic), AWS (basic), Kubernetes (intro), CI/CD, Git  
 - **Tools:** GitHub, Postman, XAMPP, Vercel, Figma  
-- **AI Tools:** ChatGPT, Leonardo AI (for UI/visual content)
+- **AI Tools:** ChatGPT, AI Tools Integration (for UI/visual content)
 
 ---
 
@@ -43,7 +43,7 @@
 - 🧾 Job Board Platform – Admin Panel + Secure Auth + Job Management  
 - 📅 Booking System – Conditional review & ratings based on booking status  
 - 🛍️ E-commerce Website – Add to cart, quantity control, order history  
-- 🧱 Clean Backend – Built with scalable N-tier architecture in PHP
+- 🧱 Clean Backend – Built with scalable N-tier architecture in PHP and many more
 
 ---
 
@@ -60,8 +60,8 @@
 
 - 💼 [LinkedIn](https://linkedin.com/in/utsav-mishra-012a2a2aa)  
 - 🔗 [GitHub](https://github.com/bhaktofmahakal)  
-- 🌐 Portfolio (in dev): Coming soon  
-- 📧 Email: utsavmishraa005@gmail.com  
+- 🌐 [Portfolio](https://portfolio-nine-ecru-23.vercel.app/)
+- 📧 [Email](utsavmishraa005@gmail.com)  
 - 📩 Secondary: moviesf14@email.com  
 
 ---
