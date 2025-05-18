@@ -31,7 +31,7 @@
 - **Security:** SQL injection protection, Input validation, Auth-based access  
 - **DevOps:** Docker (basic), AWS (basic), Kubernetes (intro), CI/CD, Git  
 - **Tools:** GitHub, Postman, XAMPP, Vercel, Figma  
-- **AI Tools:** ChatGPT, AI Tools Integration (for UI/visual content)
+- **AI Tools:** ChatGPT, AI Tools Integration 
 
 ---
 
@@ -48,8 +48,7 @@
 ## 🔭 Currently Working On
 
 - Solving DSA on LeetCode using real-world problem-solving patterns  
-- Building REST APIs with role-based auth & error-handling  
-- Exploring Docker + AWS + Kubernetes for backend app deployment  
+- Exploring Docker + AWS + Kubernetes for backend app deployments 
 - Polishing GitHub, Resume, and LinkedIn for **2025 internship season**
 
 ---
