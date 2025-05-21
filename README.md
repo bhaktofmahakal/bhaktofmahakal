@@ -56,7 +56,7 @@
 ## 📬 Connect With Me
   
 - 🌐 [Portfolio](https://portfolio-nine-ecru-23.vercel.app/)
-- 💼 [LinkedIn](https://linkedin.com/in/utsav-mishra-1)  
+- 💼 [LinkedIn](https://linkedin.com/in/utsav-mishra1)  
 - 🔗 [GitHub](https://github.com/bhaktofmahakal)  
 - 📧 [Email](utsavmishraa005@gmail.com)  
 - 📩 [Secondary Email](moviesf14@email.com)  
