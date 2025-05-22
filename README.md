@@ -41,8 +41,9 @@
 - 🧾 Job Board Platform – Admin Panel + Secure Auth + Job Management  
 - 📅 Booking System – Conditional review & ratings based on booking status  
 - 🛍️ E-commerce Website – Add to cart, quantity control, order history  
-- 🧱 Clean Backend – Built with scalable N-tier architecture in PHP and many more
- [nuitrician tracker](https://app--nutri-track-89d91a87.base44.app/)
+- 🧱 Clean Backend – Built with scalable N-tier architecture in PHP and many more... such as
+- [nuitrician tracker](https://app--nutri-track-89d91a87.base44.app/)
+ 
 
 ---
 ## 🔭 Currently Working On
