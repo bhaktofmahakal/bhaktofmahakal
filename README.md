@@ -42,9 +42,9 @@
 - 📅 Booking System – Conditional review & ratings based on booking status  
 - 🛍️ E-commerce Website – Add to cart, quantity control, order history  
 - 🧱 Clean Backend – Built with scalable N-tier architecture in PHP and many more
+ [nuitrician tracker](https://app--nutri-track-89d91a87.base44.app/)
 
 ---
-
 ## 🔭 Currently Working On
 
 - Solving DSA on LeetCode using real-world problem-solving patterns  
@@ -60,7 +60,7 @@
 - 🔗 [GitHub](https://github.com/bhaktofmahakal)  
 - 📧 [Email](utsavmishraa005@gmail.com)  
 - 📩 [Secondary Email](moviesf14@email.com)  
- [nuitrician tracker](https://app--nutri-track-89d91a87.base44.app/)
+
 ---
 
 💡 *“I believe in learning by building — and I’m always open to exciting collaborations!”*
