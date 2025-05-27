@@ -81,7 +81,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktofmahakal&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Profile Visitor Count -->
-[![Visits Count](https://visitcount.itsvg.in/api?id=bhaktofmahakal&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visits Count](https://visitcount.itsvg.in/api?id=bhaktofmahakal&icon=0&color=0)](https://portfolio-nine-ecru-23.vercel.app/)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bhaktofmahakal&theme=vue&no-frame=false&no-bg=true&margin-w=4)
