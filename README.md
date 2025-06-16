@@ -50,14 +50,14 @@
   - Generates entire **landing pages from a single prompt**  
 - **AI Chatbots using Mistral R1 + DeepSeek** – for real-world Problems
   
-  ## 🩺 MedPrompt (Med AI with RAG):
+ **🩺 MedPrompt (Med AI)**:
 - Built with **Retrieval-Augmented Generation (RAG)**  
 - Analyzes medical symptoms and suggests **triage-based** actions  
 - Aims to assist with early diagnosis & personalized healthcare suggestions  
 
 ---
 
-#### 🏨 StayFinder – Full Stack Property Booking Platform *(In Progress)*:
+## 🏨 StayFinder – Full Stack Property Booking Platform *(In Progress)*:
 > Real-world, AI-ready Airbnb alternative with full-stack control.
 
 - React + Tailwind frontend, PHP backend (N-tier architecture)  
