@@ -70,20 +70,14 @@
 ### 🚧 Currently:
 - Finalizing **StayFinder** deployment with full feature set  
 - Enhancing **MedPrompt** with optimized RAG + medical data pipelines  
-- Building **AI Dev Agents** for real-time web dev workflows  
-- Actively applying to **top tech internships (2025)**: Google, Microsoft, Meesho, Razorpay, etc.
+- Building **AI Dev Agents** for real-time web dev workflows
+- Exploring Docker + AWS + Kubernetes for backend app deployments 
+- Polishing GitHub and LinkedIn for **Internships & Placements**.
+- Actively applying to **top tech internships and Jobs (2025)**: Google, Microsoft, Meesho, Razorpay, Startups, etc.
 
 ---
 
 📫 **Let’s connect and collaborate on building the future of the web + AI!**
-
----
-
-## 🔭 Currently Working On
-
-- Solving DSA on LeetCode using real-world problem-solving patterns  
-- Exploring Docker + AWS + Kubernetes for backend app deployments 
-- Polishing GitHub and LinkedIn for **Internships & Placements**.
 
 ---
 
