@@ -27,7 +27,7 @@
 
 - **Languages:** PHP, JavaScript, Java (Basics), Python  
 - **Frontend:** React.js, Tailwind CSS, Bootstrap  
-- **Backend:** PHP (N-tier), MySQL, REST APIs, Auth & Session, Python, FastApi, Flask, Node.js, Express.js  
+- **Backend:** PHP (N-tier)(Object-Oriented), MySQL, REST APIs, Auth & Session, Python, FastApi, Flask, Node.js, Express.js, Laravel  
 - **Security:** SQL injection protection, Input validation, Auth-based access, e.t.c 
 - **DevOps:** Docker (basic), AWS (basic), Kubernetes , CI/CD, Git, GitHub
 - **Tools:** GitHub, Postman, XAMPP, Vercel, Figma, Hotscotch, e.t.c  
