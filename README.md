@@ -17,7 +17,7 @@
 - Secure, RESTful APIs with validation & token/session auth  
 - Role-based access and input security  
 - DevOps workflows with Docker, GitHub Actions, and CI/CD  
-- Cloud fundamentals (AWS, Kubernetes basics)  
+- Cloud fundamentals (AWS, Kubernetes)  
 
 🧠 I regularly practice **DSA** using patterns like Sliding Window, Linked List Reversal, Monotonic Stack — and deploy modern full-stack apps via **GitHub + Vercel**.
 
@@ -25,23 +25,18 @@
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** PHP, JavaScript, Java (Basics)  
+- **Languages:** PHP, JavaScript, Java (Basics), Python  
 - **Frontend:** React.js, Tailwind CSS, Bootstrap  
-- **Backend:** PHP (N-tier), MySQL, REST APIs, Auth & Session  
-- **Security:** SQL injection protection, Input validation, Auth-based access  
-- **DevOps:** Docker (basic), AWS (basic), Kubernetes (intro), CI/CD, Git  
-- **Tools:** GitHub, Postman, XAMPP, Vercel, Figma  
-- **AI Tools:** ChatGPT, AI Tools Integration 
+- **Backend:** PHP (N-tier), MySQL, REST APIs, Auth & Session, Python, FastApi, Flask, Node.js, Express.js  
+- **Security:** SQL injection protection, Input validation, Auth-based access, e.t.c 
+- **DevOps:** Docker (basic), AWS (basic), Kubernetes , CI/CD, Git, GitHub
+- **Tools:** GitHub, Postman, XAMPP, Vercel, Figma, Hotscotch, e.t.c  
+- **AI Tools:** ChatGPT, AI Tools Integration, Claude, GROK, Gen AI, LLMs, LangChain, e.t.c 
 
 ---
 
-## 🧩 Projects & Highlights
+## Highlights
 
-- 💻 Modern College Website – React + Tailwind + PHP + MySQL  
-- 🧾 Job Board Platform – Admin Panel + Secure Auth + Job Management  
-- 📅 Booking System – Conditional review & ratings based on booking status  
-- 🛍️ E-commerce Website – Add to cart, quantity control, order history  
-- 🧱 Clean Backend – Built with scalable N-tier architecture in PHP and many more... such as
 - [learning-helper](https://v0-personal-productivity-app-nine.vercel.app/)
 - [nuitrician tracker](https://app--nutri-track-89d91a87.base44.app/)
  
@@ -51,7 +46,7 @@
 
 - Solving DSA on LeetCode using real-world problem-solving patterns  
 - Exploring Docker + AWS + Kubernetes for backend app deployments 
-- Polishing GitHub, Resume, and LinkedIn for **2025 internship season**
+- Polishing GitHub and LinkedIn for **Internships & Placements**.
 
 ---
 
