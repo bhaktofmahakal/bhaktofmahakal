@@ -44,11 +44,18 @@
 
 #### 🧠 AI Projects:
 - **Jarvis (Virtual AI Assistant)** – Task execution, context memory, command automation  
-- **AI Code Companion** – More than just a code generator:  
+- **AI Code Companion** – More than just a code generator, it debugs, analyzes and:  
   - Writes code in **10+ languages**  
   - Supports full **HTML/CSS/JS** output rendering  
   - Generates entire **landing pages from a single prompt**  
-- **AI Chatbots using Mistral R1 + DeepSeek** – Suggestive shopping experience for e-commerce
+- **AI Chatbots using Mistral R1 + DeepSeek** – for real-world Problems
+  
+  ## 🩺 MedPrompt (Med AI with RAG):
+- Built with **Retrieval-Augmented Generation (RAG)**  
+- Analyzes medical symptoms and suggests **triage-based** actions  
+- Aims to assist with early diagnosis & personalized healthcare suggestions  
+
+---
 
 #### 🏨 StayFinder – Full Stack Property Booking Platform *(In Progress)*:
 > Real-world, AI-ready Airbnb alternative with full-stack control.
@@ -57,11 +64,6 @@
 - Listings, filters, auth, booking, secure payments, admin controls  
 - Real-time messaging, notifications, email triggers, and smart dashboards  
 - AI enhancements (upcoming): dynamic pricing, calendar sync, booking predictions  
-
-#### 🩺 MedPrompt (Med AI with RAG):
-- Built with **Retrieval-Augmented Generation (RAG)**  
-- Analyzes medical symptoms and suggests **triage-based** actions  
-- Aims to assist with early diagnosis & personalized healthcare suggestions  
 
 ---
 
