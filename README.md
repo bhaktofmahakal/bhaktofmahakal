@@ -112,7 +112,7 @@
 [![Visits Count](https://visitcount.itsvg.in/api?id=bhaktofmahakal&icon=0&color=0)](https://portfolio-nine-ecru-23.vercel.app/)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bhaktofmahakal&theme=vue&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=bhaktofmahakal&theme=vue&no-frame=false&no-bg=true&margin-w=5)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
