@@ -103,25 +103,24 @@
 
 ## 📊 GitHub Stats
 
-<!--🔥 GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhaktofmahakal&theme=vue&hide_border=true)
+<!-- 🔥 GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhaktofmahakal&theme=vue&hide_border=true)
 
-<!--📘 Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktofmahakal&theme=vue&hide_border=true&layout=compact&langs_count=8)
+<!-- 📘 Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktofmahakal&theme=vue&hide_border=true&layout=compact&langs_count=8)
 
-<!--🏅 GitHub Trophies -->
+<!-- 🏆 GitHub Trophies -->
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=bhaktofmahakal&theme=vue&no-frame=true&no-bg=true&margin-w=5)
 
-<!--🚀 Top Contributed Repo -->
+<!-- ✍️ Dev Quote -->
+### ✍️ Random Dev Quote
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+<!-- 🔝 Top Contributed Repo -->
 ### 🔝 Top Contributed Repositories
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=bhaktofmahakal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=bhaktofmahakal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<!--👁️ Visitor Count -->
-### 👀 Visitor Count
-[![](https://visitcount.itsvg.in/api?id=bhaktofmahakal&icon=5&color=8)](https://visitcount.itsvg.in)
-
----
-<!-- Powered by GPRM -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<!-- 👁️ Visitor Count -->
+### 👁️ Visitor Count
+[![Visits](https://visitcount.itsvg.in/api?id=bhaktofmahakal&icon=5&color=8)](https://portfolio-nine-ecru-23.vercel.app/)
