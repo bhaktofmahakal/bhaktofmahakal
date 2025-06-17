@@ -24,7 +24,7 @@
 - **Security:** SQL injection protection, Input validation, Auth-based access, e.t.c 
 - **DevOps:** Docker (basic), AWS (basic), Kubernetes , CI/CD, Git, GitHub
 - **Tools:** GitHub, Postman, XAMPP, Vercel, Figma, Hotscotch, e.t.c  
-- **AI Tools:** ChatGPT, AI Tools Integration, Claude, GROK, Gen AI, LLMs, LangChain, e.t.c 
+- **AI Tools:** ChatGPT, AI Tools Integration, Claude, GROK, Gen AI, Deepseak R1, Ollama, LLMs, LangChain, e.t.c 
 
 ---
 
