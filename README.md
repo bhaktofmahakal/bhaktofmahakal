@@ -60,7 +60,9 @@
 
 ---
 
-## **Talksy** – AI-Powered Social Chat Platform
+## 🚧 Currently (In Progress)
+
+### **Talksy** – AI-Powered Social Chat Platform
 > *Solo-developed emotion-aware chat ecosystem with immersive 2.5D environments*
 
 ### Tech Stack
