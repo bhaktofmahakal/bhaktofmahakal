@@ -3,6 +3,9 @@
 
 # 🙋‍♂️ **About Me**
 
+
+### Full-Stack Developer | AI Enthusiast | Building Next-Gen Solutions
+
 🎓 I’m a **2nd-year BCA student** (graduating in **Nov 2026**) focused on becoming a **top-tier full-stack web developer** with a strong foundation in **backend systems**, **API security**, and **DevOps fundamentals**.
 
  
@@ -57,31 +60,59 @@
 
 ---
 
-## 🏨 StayFinder – Full Stack Property Booking Platform *(In Progress)*:
-> Real-world, AI-ready Airbnb alternative with full-stack control.
+## **Talksy** – AI-Powered Social Chat Platform
+> *Solo-developed emotion-aware chat ecosystem with immersive 2.5D environments*
 
-- React + Tailwind frontend, PHP backend (N-tier architecture)  
-- Listings, filters, auth, booking, secure payments, admin controls  
-- Real-time messaging, notifications, email triggers, and smart dashboards  
-- AI enhancements (upcoming): dynamic pricing, calendar sync, booking predictions  
+### Tech Stack
+```typescript
+Frontend: React 18+ | Next.js | TypeScript | Tailwind | Three.js
+Backend:  Node.js | Express | PostgreSQL | Redis | Socket.IO
+AI/ML:    OpenAI API | Emotion Detection | NLP | Computer Vision
+DevOps:   Docker | Kubernetes | CI/CD | AWS/GCP
+```
+
+### Key Features
+- **Real-time Chat** with Socket.IO infrastructure
+- **AI Companions** powered by OpenAI integration
+- **Emotion Detection** using computer vision
+- **2.5D Virtual Rooms** built with Three.js
+- **Gamification System** with coins, badges, achievements
+- **Live Translation** and sentiment analysis
+
+### Development Highlights
+- **Solo Full-Stack**: Managing frontend, backend, AI/ML, and DevOps
+- **Performance**: Optimized for 10,000+ concurrent users
+- **Scalable Architecture**: Microservices with Kubernetes
+- **Security**: End-to-end encryption, JWT auth, GDPR compliance
+
+### Current Status
+- Real-time messaging - Production ready
+- AI integration - 80% complete  
+- 3D environments - Prototype phase
+- Mobile optimization - In progress
 
 ---
 
-### 🚧 Currently:
-- Finalizing **StayFinder** deployment with full feature set  
-- Enhancing **MedPrompt** with optimized RAG + medical data pipelines  
-- Building **AI Dev Agents** for real-time web dev workflows
-- Exploring Docker + AWS + Kubernetes for backend app deployments 
-- Polishing GitHub and LinkedIn for **Internships & Placements**.
-- Actively applying to **top tech internships and Jobs (2025)**: Google, Microsoft, Meesho, Razorpay, Startups, etc.
+### Seeking Opportunities
+
+**Target Roles:** Full-Stack Engineer | Frontend Engineer | Backend Engineer | AI/ML Engineer
+
+**Companies:**
+- **Big Tech**: Google, Microsoft, Meta, Amazon
+- **Fintech**: Razorpay, Stripe, PayPal, Meesho  
+- **Remote Startups**: AI-first companies, SaaS platforms worldwide and remotely
+- **Global Startups**: EdTech, Social platforms, Developer tools
 
 ---
+
+
+*"Building the future of human-AI interaction."*
 
 📫 **Let’s connect and collaborate on building the future of the web + AI!**
 
 ---
 
-## 📬 Connect With Me
+## 📬 Let’s connect 
   
 - 🌐 [Portfolio](https://portfolio-nine-ecru-23.vercel.app/)
 - 💼 [LinkedIn](https://linkedin.com/in/utsav-mishra1)  
