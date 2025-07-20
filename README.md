@@ -3,23 +3,13 @@
 
 # 🙋‍♂️ **About Me**
 
-
 ### Full-Stack Developer | AI Enthusiast | Building Next-Gen Solutions
 
 🎓 I’m a **2nd-year BCA student** (graduating in **Nov 2026**) focused on becoming a **top-tier full-stack web developer** with a strong foundation in **backend systems**, **API security**, and **DevOps fundamentals**.
 
- 
-
-🔐 I'm actively improving my **backend engineering** by mastering:
-
-- Secure, RESTful APIs with validation & token/session auth  
-- Role-based access and input security  
-- DevOps workflows with Docker, GitHub Actions, and CI/CD  
-- Cloud fundamentals (AWS, Kubernetes)  
-
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 - **Languages:** PHP, JavaScript, Java (Basics), Python  
 - **Frontend:** React.js, Tailwind CSS, Bootstrap  
@@ -36,7 +26,6 @@
 - [learning-helper](https://v0-personal-productivity-app-nine.vercel.app/)
 - [nuitrician tracker](https://app--nutri-track-89d91a87.base44.app/)
  
-
 ---
 
 ### 🏗 What I've Built:
@@ -125,7 +114,6 @@ DevOps:   Docker | Kubernetes | CI/CD | AWS/GCP
 ---
 
 💡 *“I believe in learning by building — and I’m always open to exciting collaborations!”*
-
 
 
 ## 🌐 Socials:
