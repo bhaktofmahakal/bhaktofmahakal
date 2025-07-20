@@ -24,7 +24,8 @@
 ## Highlights
 
 - [learning-helper](https://v0-personal-productivity-app-nine.vercel.app/)
-- [nuitrician-tracker](https://app--nutri-track-89d91a87.base44.app/)
+- [nuitrician-tracker](https://app--nutri-track-89d91a87.base44.app
+
 [finance-visualizer](https://personalfinancevisualizer-gamma.vercel.app/)
  
 ---
