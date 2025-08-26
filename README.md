@@ -57,7 +57,9 @@
 ### **Talksy** – AI-Powered Social Chat Platform
 > *Solo-developed emotion-aware chat ecosystem with immersive 2.5D environments*
 > *Only Frontends Backend in progress*
+
 [Talksy](https://talksy-sand.vercel.app/)
+
 [Devmentor-AI](https://dev-mentor-ai-zeta.vercel.app/)
 
 ### Tech Stack
