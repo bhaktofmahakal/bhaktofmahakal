@@ -5,7 +5,7 @@
 
 ### Full-Stack Developer | AI Enthusiast | Building Next-Gen Solutions
 
-🎓 I’m a **Last year BCA student** (graduating in **Nov 2026**) focused on becoming a **top-tier full-stack web developer** with a strong foundation in **backend systems**, **API security**, and **DevOps fundamentals**.
+🎓 I’m a **Last year BCA student** (graduating in **2026**) focused on becoming a **top-tier full-stack web developer** with a strong foundation in **backend systems**, **API security**, and **DevOps fundamentals**.
 
 ---
 
