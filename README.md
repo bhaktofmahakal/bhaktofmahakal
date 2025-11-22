@@ -108,9 +108,7 @@ Security:
 - **MedPrompt (RAG-based)**: Medical diagnosis AI with triage system
 
 #### 🎨 **Recent Builds**
-- [Learning Helper](https://v0-personal-productivity-app-nine.vercel.app/)
 - [Nutrition Tracker](https://app--nutri-track-89d91a87.base44.app)
-- [Finance Visualizer](https://personalfinancevisualizer-gamma.vercel.app/)
 - [DevMentor AI](https://dev-mentor-ai-zeta.vercel.app/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -124,7 +122,7 @@ Security:
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktofmahakal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&text_color=FFFFFF" alt="Top Languages"/>
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=bhaktofmahakal&theme=radical&no-frame=true&no-bg=true&row=1&column=4" alt="Trophies"/>
+  <!-- <img width="49%" src="https://github-profile-trophy.vercel.app/?username=bhaktofmahakal&theme=radical&no-frame=true&no-bg=true&row=1&column=4" alt="Trophies"/> -->
 </p>
 
 <p align="center">
