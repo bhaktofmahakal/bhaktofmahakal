@@ -115,10 +115,10 @@ Security:
 
 ## 📈 GitHub Analytics
 
-<!-- <p align="center">
+ <p align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaktofmahakal&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=FF4500&fire=FF4500&currStreakLabel=FF4500" alt="GitHub Streak"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhaktofmahakal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&icon_color=FF4500&text_color=FFFFFF" alt="GitHub Stats"/>
-</p> -->
+</p> 
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktofmahakal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&text_color=FFFFFF" alt="Top Languages"/>
