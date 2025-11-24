@@ -122,7 +122,7 @@ Security:
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktofmahakal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&text_color=FFFFFF" alt="Top Languages"/>
-  <!-- <img width="49%" src="https://github-profile-trophy.vercel.app/?username=bhaktofmahakal&theme=radical&no-frame=true&no-bg=true&row=1&column=4" alt="Trophies"/> -->
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=bhaktofmahakal&theme=radical&no-frame=true&no-bg=true&row=1&column=4" alt="Trophies"/>
 </p>
 
 <p align="center">
