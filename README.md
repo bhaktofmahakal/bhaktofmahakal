@@ -108,6 +108,8 @@ Security:
 - **MedPrompt (RAG-based)**: Medical diagnosis AI with triage system
 
 #### 🎨 **Recent Builds**
+- [Workstation](https://utsav-mishra-dynamics.vercel.app/)
+- [Frontend Practice](https://github.com/bhaktofmahakal/Frontend-clones)
 - [Nutrition Tracker](https://app--nutri-track-89d91a87.base44.app)
 - [DevMentor AI](https://dev-mentor-ai-zeta.vercel.app/)
 
