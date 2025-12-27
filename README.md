@@ -15,7 +15,7 @@ const utsav = {
     role: "Full-Stack Developer | AI Enthusiast",
     education: "BCA Student (Graduating 2026)",
     location: "India 🇮🇳",
-    currentFocus: "Building Talksy - AI-Powered Social Platform",
+    currentFocus: "Building - AI-Powered SAAS",
     vision: "Top-tier full-stack dev with AI/ML expertise",
     motto: "Learning by building, one project at a time"
 };
