@@ -25,7 +25,7 @@ const utsav = {
 
 ### 💡 What I'm Currently Doing
 
-- 🔭 Building **Talksy** - Emotion-aware AI chat platform
+- 🔭 Building **Nexus Studio**
 - 🌱 Deepening skills in **Kubernetes, RAG, and AI Systems**
 - 👯 Open to collaborate on **AI/ML & Full-Stack Projects**
 - 💬 Ask me about **React, Node.js, FastAPI, AI Integration**
