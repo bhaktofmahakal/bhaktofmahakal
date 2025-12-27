@@ -12,12 +12,16 @@
 
 ```javascript
 const utsav = {
-    role: "Full-Stack Developer | AI Enthusiast",
-    education: "BCA Student (Graduating 2026)",
-    location: "India 🇮🇳",
-    currentFocus: "Building - AI-Powered SAAS",
-    vision: "Top-tier full-stack dev with AI/ML expertise",
-    motto: "Learning by building, one project at a time"
+  title: "Full-Stack Engineer (AI Systems)",
+  experience: "Fintech, SaaS, AI tooling",
+  education: "BCA, 2026",
+  strengths: [
+    "End-to-end product ownership",
+    "AI/LLM integration",
+    "Scalable backend systems",
+    "High-performance frontend"
+  ],
+  mindset: "Ship fast, iterate hard, build real systems"
 };
 ```
 
