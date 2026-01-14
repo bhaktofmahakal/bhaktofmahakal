@@ -82,25 +82,6 @@ Security:
 
 ## 🏆 Flagship Projects
 
-### 🎯 [Talksy](https://talksy-sand.vercel.app/) - AI-Powered Social Chat Platform
-> *Emotion-aware chat ecosystem with immersive 2.5D environments*
-
-**Tech Stack:** React 18+ | Next.js | TypeScript | Three.js | Node.js | PostgreSQL | Redis | Socket.IO | OpenAI API
-
-**Key Features:**
-- ⚡ Real-time messaging with Socket.IO
-- 🤖 AI Companions powered by OpenAI
-- 🎭 Emotion Detection using Computer Vision
-- 🌐 2.5D Virtual Rooms with Three.js
-- 🎮 Gamification System
-- 🌍 Live Translation & Sentiment Analysis
-
-**Status:** Frontend Production Ready | Backend 80% Complete
-
----
-
-### 🧠 AI Projects Portfolio
-
 #### 🛒 **E-Commerce Ecosystem** (7+ Full-Stack Stores)
 - **Freshcery**: AI chatbot (Gemini + Ollama), Redis caching
 - Coffee Shop, Bookstore, Real Estate, Streaming Platform
@@ -117,6 +98,7 @@ Security:
 - [Frontend Practice](https://github.com/bhaktofmahakal/Frontend-clones)
 - [Nutrition Tracker](https://app--nutri-track-89d91a87.base44.app)
 - [DevMentor AI](https://dev-mentor-ai-zeta.vercel.app/)
+-[Talksy](https://talksy-sand.vercel.app/) 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
