@@ -95,10 +95,11 @@ Security:
 
 #### 🎨 **Recent Builds**
 - [Workstation](https://utsav-mishra-dynamics.vercel.app/)
-- [Frontend Practice](https://github.com/bhaktofmahakal/Frontend-clones)
+- [MoodyX - AI](https://moodyx.vercel.app/)
+- [Frontend Practices - UI](https://github.com/bhaktofmahakal/Frontend-clones)
 - [Nutrition Tracker](https://app--nutri-track-89d91a87.base44.app)
 - [DevMentor AI](https://dev-mentor-ai-zeta.vercel.app/)
--[Talksy](https://talksy-sand.vercel.app/) 
+-[Talksy AI](https://talksy-sand.vercel.app/) 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
