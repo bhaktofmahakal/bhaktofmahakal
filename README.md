@@ -95,6 +95,7 @@ Security:
 
 #### 🎨 **Recent Builds**
 - [Workstation](https://utsav-mishra-dynamics.vercel.app/)
+- [OminiAgent](https://omniagent-studio.vercel.app/)
 - [MoodyX - AI](https://moodyx.vercel.app/)
 - [Frontend Practices - UI](https://github.com/bhaktofmahakal/Frontend-clones)
 - [Nutrition Tracker](https://app--nutri-track-89d91a87.base44.app)
