@@ -29,10 +29,10 @@ const utsav = {
 
 ### 💡 What I'm Currently Doing
 - Founder's Engineer Associate at PPR Capital.
-- Founding Engineer at [Mishra Dynamics](https://www.mishradynamics.in/)
+- Founding Engineer at [Mishra Dynamics](https://misra-dynamics.vercel.app/)
 - 🔭 Building **Nexus Studio**
 - 🌱 Deepening skills in **Kubernetes, RAG, and AI Systems**
-- 👯 Open to collaborate/contract on **AI/ML & Full-Stack Projects [Mishra_Dynamics](https://www.mishradynamics.in/)**
+- 👯 Open to collaborate/contract on **AI/ML & Full-Stack Projects [Mishra_Dynamics](https://misra-dynamics.vercel.app/)**
 - 💬 Ask me about **React, Node.js, FastAPI, AI Integration**
 - 📫 Reach me: **utsavmishraa005@gmail.com**
 - ⚡ Fun fact: **I build AI assistants in my free time**
