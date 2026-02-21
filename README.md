@@ -80,28 +80,12 @@ Security:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 Flagship Projects
-
-#### 🛒 **E-Commerce Ecosystem** (7+ Full-Stack Stores)
-- **Freshcery**: AI chatbot (Gemini + Ollama), Redis caching
-- Coffee Shop, Bookstore, Real Estate, Streaming Platform
-- Hotel & Travel Booking Systems
-- *Stack:* PHP + MySQL + REST APIs
-
-#### 🤖 **AI Assistants**
-- **Jarvis**: Virtual AI Assistant with task automation
-- **AI Code Companion**: Multi-language code generator with live rendering
-- **MedPrompt (RAG-based)**: Medical diagnosis AI with triage system
-
 #### 🎨 **Recent Builds**
 - [DevDocs](https://devdocsai.lovable.app)
 - [Workstation](https://utsav-mishra-dynamics.vercel.app/)
-- [OminiAgent](https://omniagent-studio.vercel.app/)
 - [MoodyX - AI](https://moodyx.vercel.app/)
-- [Frontend Practices - UI](https://github.com/bhaktofmahakal/Frontend-clones)
 - [Nutrition Tracker](https://app--nutri-track-89d91a87.base44.app)
-- [DevMentor AI](https://dev-mentor-ai-zeta.vercel.app/)
--[Talksy AI](https://talksy-sand.vercel.app/) 
+ 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
