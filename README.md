@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Utsav+Mishra+%F0%9F%91%8B;Full-Stack+Engineer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;Building+Next-Gen+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 ## 🚀 About Me
 
@@ -94,6 +94,7 @@ Security:
 - **MedPrompt (RAG-based)**: Medical diagnosis AI with triage system
 
 #### 🎨 **Recent Builds**
+- [DevDocs](https://devdocsai.lovable.app)
 - [Workstation](https://utsav-mishra-dynamics.vercel.app/)
 - [OminiAgent](https://omniagent-studio.vercel.app/)
 - [MoodyX - AI](https://moodyx.vercel.app/)
