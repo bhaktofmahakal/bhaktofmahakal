@@ -32,7 +32,7 @@ const utsav = {
 - Founding Engineer at [Mishra Dynamics](https://misra-dynamics.vercel.app/)
 - 🔭 Building **Nexus Studio**
 - 🌱 Deepening skills in **Kubernetes, RAG, and AI Systems**
-- 👯 Open to collaborate/contract on **AI/ML & Full-Stack Projects [Mishra_Dynamics](https://misra-dynamics.vercel.app/)**
+- 👯 Open to collaborate/contract on **AI/ML & Full-Stack Projects [About](https://www.utsavmishra.me/)**
 - 💬 Ask me about **React, Node.js, FastAPI, AI Integration**
 - 📫 Reach me: **utsavmishraa005@gmail.com**
 - ⚡ Fun fact: **I build AI assistants in my free time**
@@ -139,8 +139,8 @@ Security:
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://portfolio-nine-ecru-23.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
- <a href="https://v0-utsav-tech.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.utsavmishra.me"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+ <a href="https://portfolio-nine-ecru-23.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=black"/></a>
   <a href="https://linkedin.com/in/utsav-mishra1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/bhaktofmahakal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:utsavmishraa005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
