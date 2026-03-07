@@ -1,13 +1,3 @@
-<!-- <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Utsav+Mishra+%F0%9F%91%8B;Full-Stack+Engineer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;Building+Next-Gen+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
 ## 🚀 About Me
 
 ```javascript
@@ -28,18 +18,18 @@ const utsav = {
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNqd29kcDlzd3c5dGU4endlM3JneG16MW9seWhlMjkwaGthNDNwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZW9RkoNqEItptErDL6/giphy.gif">
 
 ### 💡 What I'm Currently Doing
-- Founder's Engineer Associate at PPR Capital.
+- Founder's Engineer Associate at PPR Capital
 - Founding Engineer at [Mishra Dynamics](https://misra-dynamics.vercel.app/)
 - 🔭 Building **Nexus Studio**
 - 🌱 Deepening skills in **Kubernetes, RAG, and AI Systems**
-- 👯 Open to collaborate/contract on **AI/ML & Full-Stack Projects [About](https://www.utsavmishra.me/)**
+- 👯 Open to collaborate/contract on **AI/ML & Full-Stack Projects** → [Portfolio](https://www.utsavmishra.me/)
 - 💬 Ask me about **React, Node.js, FastAPI, AI Integration**
 - 📫 Reach me: **utsavmishraa005@gmail.com**
 - ⚡ Fun fact: **I build AI assistants in my free time**
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🛠️ Tech Arsenal
 
@@ -78,34 +68,36 @@ Security:
   - Input Validation, End-to-End Encryption
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-#### 🎨 **Recent Builds**
-- [DevDocs](https://devdocsai.lovable.app)
-- [Workstation](https://utsav-mishra-dynamics.vercel.app/)
-- [MoodyX - AI](https://moodyx.vercel.app/)
-- [Nutrition Tracker](https://app--nutri-track-89d91a87.base44.app)
- 
+## 🎨 Recent Builds
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+| Project | Description |
+|--------|-------------|
+| [DevDocs AI](https://devdocsai.lovable.app) | AI-powered dev documentation |
+| [Workstation](https://utsav-mishra-dynamics.vercel.app/) | Personal workstation dashboard |
+| [MoodyX - AI](https://moodyx.vercel.app/) | AI emotion detection app |
+| [Nutrition Tracker](https://app--nutri-track-89d91a87.base44.app) | Smart nutrition tracking |
+
+---
 
 ## 📈 GitHub Analytics
 
- <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaktofmahakal&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=FF4500&fire=FF4500&currStreakLabel=FF4500" alt="GitHub Streak"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhaktofmahakal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&icon_color=FF4500&text_color=FFFFFF" alt="GitHub Stats"/>
-</p> 
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=bhaktofmahakal&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=FF4500&fire=FF4500&currStreakLabel=FF4500" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhaktofmahakal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&icon_color=FF4500&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+</p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktofmahakal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&text_color=FFFFFF" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktofmahakal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
   <img width="49%" src="https://github-profile-trophy.vercel.app/?username=bhaktofmahakal&theme=radical&no-frame=true&no-bg=true&row=1&column=4" alt="Trophies"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaktofmahakal&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaktofmahakal&theme=react-dark&hide_border=true&area=true&custom_title=Utsav%20Mishra%27s%20Contribution%20Graph" alt="Contribution Graph"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🎯 Career Aspirations
 
@@ -126,31 +118,22 @@ Security:
 - ✅ Performance optimization mindset
 - ✅ DevOps & cloud fundamentals
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💬 Random Dev Wisdom
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.utsavmishra.me"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
- <a href="https://portfolio-nine-ecru-23.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=black"/></a>
   <a href="https://linkedin.com/in/utsav-mishra1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/bhaktofmahakal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:utsavmishraa005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://instagram.com/utsav.mishra__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 <div align="center">
-  
+
 ### 💭 Philosophy
 
 ```ascii
@@ -166,8 +149,6 @@ Security:
 ╚═══════════════════════════════════════════════════════╝
 ```
 
-</div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
@@ -176,8 +157,6 @@ Security:
   <img src="https://komarev.com/ghpvc/?username=bhaktofmahakal&label=Profile%20Views&color=FF4500&style=for-the-badge" alt="Profile views"/>
 </p>
 
----
+*⚡ "Building the future of human-AI interaction, one commit at a time." ⚡*
 
-<p align="center">
-  <i>⚡ "Building the future of human-AI interaction, one commit at a time." ⚡</i>
-</p>
+</div>
