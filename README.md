@@ -83,15 +83,6 @@ Security:
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=bhaktofmahakal&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=FF4500&fire=FF4500&currStreakLabel=FF4500" alt="GitHub Streak"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhaktofmahakal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&icon_color=FF4500&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktofmahakal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=bhaktofmahakal&theme=radical&no-frame=true&no-bg=true&row=1&column=4" alt="Trophies"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaktofmahakal&theme=react-dark&hide_border=true&area=true&custom_title=Utsav%20Mishra%27s%20Contribution%20Graph" alt="Contribution Graph"/>
