@@ -18,7 +18,6 @@ const utsav = {
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNqd29kcDlzd3c5dGU4endlM3JneG16MW9seWhlMjkwaGthNDNwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZW9RkoNqEItptErDL6/giphy.gif">
 
 ### 💡 What I'm Currently Doing
-- Founder's Engineer Associate at PPR Capital
 - Founding Engineer at [Mishra Dynamics](https://misra-dynamics.vercel.app/)
 - 🔭 Building **Nexus Studio**
 - 🌱 Deepening skills in **Kubernetes, RAG, and AI Systems**
