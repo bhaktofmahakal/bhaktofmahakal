@@ -74,6 +74,7 @@ Security:
 | Project | Description |
 |--------|-------------|
 | [DevDocs AI](https://devdocsai.lovable.app) | AI-powered dev documentation |
+| [Repo-Lens AI](https://repo-lens-gamma.vercel.app/) | AI-powered codebase Q&A |
 | [Workstation](https://utsav-mishra-dynamics.vercel.app/) | Personal workstation dashboard |
 | [MoodyX - AI](https://moodyx.vercel.app/) | AI emotion manager app |
 | [Nutrition Tracker](https://app--nutri-track-89d91a87.base44.app) | Smart nutrition tracking |
