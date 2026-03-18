@@ -155,5 +155,4 @@ Security:
 </div>
 
 
-
-<iframe src="https://github.com/sponsors/bhaktofmahakal/button" title="Sponsor bhaktofmahakal" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/bhaktofmahakal)
