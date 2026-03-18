@@ -21,7 +21,7 @@ const utsav = {
 - Founding Engineer at [Mishra Dynamics](https://misra-dynamics.vercel.app/)
 - 🔭 Building **Nexus Studio**
 - 🌱 Deepening skills in **Kubernetes, RAG, and AI Systems**
-- 👯 Open to collaborate/contract on **AI/ML & Full-Stack Projects** → [Portfolio](https://www.utsavmishra.me/)      |       [![Sponsor](https://img.shields.io/badge/Sponsor-❤️-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/bhaktofmahakal)
+- 👯 Open to collaborate/contract on **AI/ML & Full-Stack Projects** → [Portfolio](https://www.utsavmishra.me/) 
 - 💬 Ask me about **React, Node.js, FastAPI, AI Integration**
 - 📫 Reach me: **utsavmishraa005@gmail.com**
 - ⚡ Fun fact: **I build AI assistants in my free time**
@@ -37,6 +37,27 @@ const utsav = {
   <br/>
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mysql,postgres,mongodb,redis,docker,kubernetes,aws,git" />
 </p>
+
+
+---
+
+## 🎨 Recent Builds
+
+| Project | Description |
+|--------|-------------|
+| [DevDocs AI](https://devdocsai.lovable.app) | AI-powered dev documentation |
+| [Repo-Lens AI](https://repo-lens-gamma.vercel.app/) | AI-powered codebase Q&A |
+| [Workstation](https://utsav-mishra-dynamics.vercel.app/) | Personal workstation dashboard |
+| [MoodyX - AI](https://moodyx.vercel.app/) | AI emotion manager app |
+| [Nutrition Tracker](https://app--nutri-track-89d91a87.base44.app) | Smart nutrition tracking |
+
+---
+
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/bhaktofmahakal)
+
+
+---
 
 ### 📊 Expertise Breakdown
 
@@ -67,19 +88,6 @@ Security:
   - Input Validation, End-to-End Encryption
 ```
 
----
-
-## 🎨 Recent Builds
-
-| Project | Description |
-|--------|-------------|
-| [DevDocs AI](https://devdocsai.lovable.app) | AI-powered dev documentation |
-| [Repo-Lens AI](https://repo-lens-gamma.vercel.app/) | AI-powered codebase Q&A |
-| [Workstation](https://utsav-mishra-dynamics.vercel.app/) | Personal workstation dashboard |
-| [MoodyX - AI](https://moodyx.vercel.app/) | AI emotion manager app |
-| [Nutrition Tracker](https://app--nutri-track-89d91a87.base44.app) | Smart nutrition tracking |
-
----
 
 ## 📈 GitHub Analytics
 
