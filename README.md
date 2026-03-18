@@ -21,7 +21,7 @@ const utsav = {
 - Founding Engineer at [Mishra Dynamics](https://misra-dynamics.vercel.app/)
 - 🔭 Building **Nexus Studio**
 - 🌱 Deepening skills in **Kubernetes, RAG, and AI Systems**
-- 👯 Open to collaborate/contract on **AI/ML & Full-Stack Projects** → [Portfolio](https://www.utsavmishra.me/)
+- 👯 Open to collaborate/contract on **AI/ML & Full-Stack Projects** → [Portfolio](https://www.utsavmishra.me/)      |       [![Sponsor](https://img.shields.io/badge/Sponsor-❤️-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/bhaktofmahakal)
 - 💬 Ask me about **React, Node.js, FastAPI, AI Integration**
 - 📫 Reach me: **utsavmishraa005@gmail.com**
 - ⚡ Fun fact: **I build AI assistants in my free time**
