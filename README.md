@@ -47,7 +47,10 @@ const utsav = {
 |--------|-------------|
 | [DevDocs AI](https://devdocsai.lovable.app) | AI-powered dev documentation |
 | [Repo-Lens AI](https://repo-lens-gamma.vercel.app/) | AI-powered codebase Q&A |
+| [Agent Skills](https://github.com/bhaktofmahakal/agent-skills) | Agent's Builder Skills |
+| [Automation](https://github.com/bhaktofmahakal/My-Automations) | Automations |
 | [Zenier](https://zenier-recorder-ui.vercel.app/) | Recorder |
+
 
 ## 🎨 Fun Builds
 
