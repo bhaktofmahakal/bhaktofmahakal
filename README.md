@@ -56,6 +56,7 @@ const utsav = {
 
 | Project | Description |
 |--------|-------------|
+| [Content-Forge](https://content-forg-ai.lovable.app/) | AI - Content Gen |
 | [Workstation](https://utsav-mishra-dynamics.vercel.app/) | Personal workstation dashboard |
 | [Excuse GPT](https://excusegpt.lovable.app/) | AI Excuse Generator |
 | [MoodyX - AI](https://moodyx.vercel.app/) | AI emotion manager app |
