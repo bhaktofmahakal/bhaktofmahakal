@@ -19,7 +19,7 @@ const utsav = {
 
 ### 💡 What I'm Currently Doing
 - Founding Engineer at [Mishra Dynamics](https://misra-dynamics.vercel.app/)
-- 🔭 Building **Nexus Studio**
+- 🔭 Building
 - 🌱 Deepening skills in **Kubernetes, RAG, and AI Systems**
 - 👯 Open to collaborate/contract on **AI/ML & Full-Stack Projects** → [Portfolio](https://www.utsavmishra.me/) 
 - 💬 Ask me about **React, Node.js, FastAPI, AI Integration**
