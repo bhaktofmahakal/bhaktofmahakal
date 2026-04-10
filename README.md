@@ -18,7 +18,7 @@ const utsav = {
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNqd29kcDlzd3c5dGU4endlM3JneG16MW9seWhlMjkwaGthNDNwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZW9RkoNqEItptErDL6/giphy.gif">
 
 ### 💡 What I'm Currently Doing
-- Founding Engineer at [Mishra Dynamics](https://misra-dynamics.vercel.app/)
+- On a Journey to be Founding Engineer
 - 🔭 Building
 - 🌱 Deepening skills in **Kubernetes, RAG, and AI Systems**
 - 👯 Open to collaborate/contract on **AI/ML & Full-Stack Projects** → [Portfolio](https://www.utsavmishra.me/) 
